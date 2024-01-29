@@ -1,4 +1,4 @@
-# Disaster-Response-Pipeline-Web-application
+# Disaster-Response-Webapp
 
 # Disaster Response Pipeline Web App
 An end-end ETL pipeline utilising both an NLP and a Machine Learning Pipeline systems to create a web application that on typing a form of disaster-related message, categorizes it into categories for various disaster relief teams
@@ -6,7 +6,7 @@ An end-end ETL pipeline utilising both an NLP and a Machine Learning Pipeline sy
 -------
 
 ## Project Inspiration
-Applying concepts and techniques of Data Engeering (ETL Pipelines, especially Machine Learning and NLP Pipelies) on a disaster messages dataset by Figure Eight to build a model for an API that classifies disaster messages.
+Applying concepts and techniques of Data engineering (ETL Pipelines, especially Machine Learning and NLP Pipelines) on a disaster messages dataset by Figure Eight to build a model for an API that classifies disaster messages.
 
 ------
 
